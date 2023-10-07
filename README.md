@@ -1,3 +1,3 @@
 # testing-repository-gh
 
-Testing text
+Testing text.
